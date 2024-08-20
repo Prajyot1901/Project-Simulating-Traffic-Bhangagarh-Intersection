@@ -1,0 +1,68 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# Prerequisites
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Visual Studio folders
+.vs/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# C++ cache files
+*.cache
+*.ilk
+*.log
+*.ncb
+*.sdf
+*.ipch
+*.tlog
+
+# C++ output files
+*.obj
+*.pdb
+*.pch
+*.idb
+*.ipdb
+*.opendb
+
+# Boost Build folder
+bin.v2/
+
+# Compiled Dynamic libraries
+*.dll
+*.dylib
+
+# For Visual Studio
+*.opensdf
+*.sln
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.vspx
+*.vssscc
+*.user
+
+# NuGet Packages
+packages/
